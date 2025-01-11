@@ -1,4 +1,4 @@
-# Project "Hello World!!"
+# Project "Hello, World!"
 ```
 hello-world/
 ├── C/
